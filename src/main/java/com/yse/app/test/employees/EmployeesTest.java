@@ -9,7 +9,7 @@ public class EmployeesTest {
 		try {
 			dao.eone(101);
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
+			
 			e.printStackTrace();
 		}
 
